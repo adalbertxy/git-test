@@ -1,5 +1,3 @@
-cd ~/git-test
-cat > README.md << 'EOF'
 # Git Test Repozitár
 
 Testovací repozitár na precvičenie základného Git/GitHub workflow.
